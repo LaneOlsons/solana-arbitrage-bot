@@ -1,0 +1,28 @@
+{
+  "network": "mainnet-beta",
+  "rpc": [
+    "https://api.mainnet-beta.solana.com"
+  ],
+  "tradingStrategy": "pingpong",
+  "tokenA": {
+    "symbol": "USDC",
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+  },
+  "tokenB": {
+    "symbol": "ARB",
+    "address": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh"
+  },
+  "slippage": 10,
+  "adaptiveSlippage": 0,
+  "priority": 1000,
+  "minPercProfit": "1",
+  "minInterval": 100,
+  "tradeSize": {
+    "value": 1,
+    "strategy": "cumulative"
+  },
+  "ui": {
+    "defaultColor": "cyan"
+  },
+  "storeFailedTxInHistory": true
+}

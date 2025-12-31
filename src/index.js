@@ -47,4 +47,4 @@ const cli = meow(`
 `);
 
 console.clear();
-render(React.createElement(wizard, cli.flags)).waitUntilExit();
+render(React.createElement(wizard, cli.flags)).waitUntilExit(); 

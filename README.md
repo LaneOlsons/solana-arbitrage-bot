@@ -286,4 +286,4 @@ If you have any ideas or suggestions for improvement while using it, please feel
 > [!IMPORTANT]
 > This software is provided as is, without any warranty of any kind, express or implied, including but not limited to the warranties
 > of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors be liable for any claim, 
-> damages, or other liability. 
+> damages, or other liability.

@@ -277,7 +277,7 @@ A big thank you to all ARB Protocol developers and everyone who has contributed 
 
 If you have any ideas or suggestions for improvement while using it, please feel free to contact me.
 
-`Discord: lane2001`
+`Discord: lane2001` 
 `Email: lane2001@gmail.com`
 
 
